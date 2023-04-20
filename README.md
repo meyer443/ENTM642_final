@@ -1,4 +1,4 @@
-# ENTM642 final projet repository
+# ENTM642 final project repository
 
 # The excel files were using in the year-mass.R file to generate what I considered the starting dataset for this project
 
