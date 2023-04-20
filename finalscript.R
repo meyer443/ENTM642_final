@@ -1,6 +1,13 @@
+# This is a script to satisfy the final project requirement in ENTM 642, Analysis of ecological data
+# copy/paste into a new R script
+# install required packages if needed
+# download the ‘fishpertrawl.csv’ data to your working directory
+
+# clear R environment
 rm(list=ls())
 
-setwd("C:/Users/justi/OneDrive/Desktop/commdata")
+# set working directory
+setwd("write_path_to_data_here")
 
 # load packages
 library(vegan)
